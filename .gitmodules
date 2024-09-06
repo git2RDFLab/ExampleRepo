@@ -1,0 +1,3 @@
+[submodule "ExampleSubmoduleRepo"]
+	path = ExampleSubmoduleRepo
+	url = https://github.com/git2RDFLab/ExampleSubmoduleRepo
